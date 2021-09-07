@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @golovingreg, I'm working as a software developer.
+- 👀 I’m interested in lots of things, IT-wise and not. For my job I use Typescript, and I intend to expand my knowledge ASAP.
+- 🌱 I’m currently learning Python and C++.
+- 💞️ I'm not looking for collaboration right now.
+- 📫 You can reach me via email (golovingreg@gmail.com) or telegram (@golovingreg)
